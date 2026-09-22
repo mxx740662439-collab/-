@@ -1,0 +1,8 @@
+This product includes a precompiled WebAssembly inference engine derived from:
+
+demucs-rs
+Copyright (c) nikhilunni and contributors
+https://github.com/nikhilunni/demucs-rs
+Licensed under the Apache License, Version 2.0.
+
+The surrounding user interface and integration code have been modified for the Bass Stem Splitter project.
